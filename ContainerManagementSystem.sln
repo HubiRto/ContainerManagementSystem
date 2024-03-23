@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerManagementSystem", "ContainerManagementSystem\ContainerManagementSystem.csproj", "{AA56C23B-1AF5-49AF-A9EA-793EF2D9AC16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA56C23B-1AF5-49AF-A9EA-793EF2D9AC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA56C23B-1AF5-49AF-A9EA-793EF2D9AC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA56C23B-1AF5-49AF-A9EA-793EF2D9AC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA56C23B-1AF5-49AF-A9EA-793EF2D9AC16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
